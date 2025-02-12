@@ -173,6 +173,7 @@ html, body{
 #textabout p{
   line-height: 1.7;
   margin-bottom: 30px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
 }
 #textabout a{
   padding: 12px 22px;
